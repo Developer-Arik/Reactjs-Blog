@@ -1,0 +1,17 @@
+[
+ {
+  "id" : 1,
+  "name" : "Virtual Reality",
+  "thumbnail_url" : "https://ipcdigital.com/wp-content/uploads/2021/08/1030_LL_VR-1030x580-1.jpg"
+ },
+ {
+  "id" : 2,
+  "name" : "Development",
+  "thumbnail_url" : "https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d.jpg"
+ },
+ {
+  "id" : 3,
+  "name" : "Drone",
+  "thumbnail_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VjjATllKFNstL8BpckvX-Sh0wzKnx7qfv8J08Q9-jQh8IWC07tZONP018_4DLg6c1Q4&usqp=CAU"
+ }
+]

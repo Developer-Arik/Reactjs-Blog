@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+body{font-family: 'Inter', sans-serif;}
+header{width: 100%;background: #121826;position: fixed;z-index: 9999999999 !important;}
+header div{width: 90%;margin: 0 auto;}
+.nav{
+ margin: 0;
+ padding: 0;
+ display: flex;
+ align-items: center;
+}
+.nav ul{margin: 0;padding: 0;}
+.nav ul li{display: inline-block;font-family: 'Ubuntu', sans-serif !important; margin: 0 2px;}
+.nav ul li a{padding: 9px 12px;border-radius: 4px;transition: .3s !important;}
+.nav ul li:hover a{background: rgb(43 12 167) !important;}
+.nav ul li a{color: #fff !important;text-decoration: none;}
+.nav ul li.active a{background: rgb(43 12 167);}
+.nav ul li.active:hover a{background: rgb(43 12 167) !important;}
+.nav svg{display: none !important;}
+.hero{background: #121826;color: #fff;}
+.fbeau{
+ font-family: 'Ubuntu', sans-serif;
+}
+.hero .container-fluid .row{
+ flex-direction: column-reverse;
+}
+.single-blog{
+ overflow: hidden;
+ color: #000 !important;
+}
+.single-blog *{
+ text-decoration: none !important;
+}
+.img-wrapper{
+ overflow: hidden !important;
+ border-radius: 8px !important;
+}
+.img-wrapper img{
+ height: 100%;
+ width: 100% !important;
+ transition: all 1s  !important;
+}
+.single-blog:hover .img-wrapper img{
+ transform: scale(1.2);
+}
+.mobile-menu ul li a{text-decoration: none;color: #fff;}
+.mobile-menu ul li{padding: 3px 0;margin: 0;font-size: 20px;}
+.mobile-menu ul li.active a{color: #4f97ff;}
+footer{background: #121826 !important;color: #fff;}
+@media screen and (max-width : 767px){
+ header div{width: 100%;}
+ .nav ul.desc{display: none;}
+ .nav svg{display: block !important;}
+}
+@media screen and (min-width : 768px){
+ .hero .container-fluid .row{
+  flex-direction:row;
+ }
+}
+.anim-fade{
+ animation: fade .5s forwards;
+}
+
+@keyframes fade{
+ 0%{
+  opacity: 0;
+ }
+ 100%{
+  opacity: 1;
+ }
+}
+
+.anim-fade-out{
+ animation: fadeOut .5s forwards;
+}
+
+@keyframes fadeOut{
+ 0%{
+  opacity: 1;
+ }
+ 100%{
+  opacity: 0;
+  display: none;
+ }
+}

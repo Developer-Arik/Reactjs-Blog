@@ -1,0 +1,34 @@
+[
+ {
+  "id" : 1,
+  "name" : "Padma Multipurpose Bridge Bangladesh",
+  "cat" : 1,
+  "thumbnail" : "https://images.prothomalo.com/prothomalo-english%2F2022-06%2F81bb4a1d-7371-44cb-be46-6a32b4474f3b%2Fpadma_b.webp?rect=0%2C33%2C640%2C360&auto=format%2Ccompress&fmt=webp&format=webp&w=480&dpr=2.6",
+  "description" : "The Padma Bridge is one of the dream obligations of Bangladesh. Its miles are a multipurpose road and rail bridge over the Padma River. It will be the sixths biggest bridge in the international upon completion.<br><br><h1>Details</h1>The improvement adventure was modified into began with the aid of the usage of China Railway’s important Bridge Engineering business enterprise restrained on 7th December 2014. The entire manufacturing modified into completed via might also moreover 2022. This bridge may be opened using Honorable Prime Minister Sheikh Hasina on 25th June 2022.",
+  "excerpt" : "The Padma Bridge is one of the dream obligations of Bangladesh. Its miles are a multipurpose road and rail bridge over t"
+ },
+ {
+  "id" : 2,
+  "name" : "Lorem 2",
+  "cat" : 2,
+  "thumbnail" : "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "description" : "Lorem ipsum dolor <a href='#'>XXX</a> sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam.  ",
+  "excerpt" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam."
+ },
+ {
+  "id" : 3,
+  "name" : "Lorem 3",
+  "cat" : 3,
+  "thumbnail" : "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam.",
+  "excerpt" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam."
+ },
+ {
+  "id" : 4,
+  "name" : "Lorem 4",
+  "cat" : 2,
+  "thumbnail" : "https://cdn.pixabay.com/photo/2014/09/11/18/23/tower-bridge-441853_1280.jpg",
+  "description" : "Lorem ipsum dolor <a href='#'>XXX</a> sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam.",
+  "excerpt" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo est, ut molestias porro quis nam."
+ }
+]
